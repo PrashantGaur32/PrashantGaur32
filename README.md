@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Padmapiyush/Padmapiyush/main/Motivation%20March%20Banner%20(2)%20(1).png)
+![](https://jusmarktech.com/public/a/images/pages/web_development.gif)
 
 <h1 align="center">Hi 👋, I'm Prashant Gaur</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
