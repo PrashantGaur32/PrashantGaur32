@@ -1,3 +1,4 @@
+![logo](https://github.com/PrashantGaur32/PrashantGaur32/blob/main/Pink%20%26%20Blue%20Futuristic%20Gaming%20Channel%20Youtube%20Intro.mp4)
 <h1 align="center">Hi 👋, I'm Prashant Gaur</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
