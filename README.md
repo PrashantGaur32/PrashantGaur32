@@ -51,13 +51,9 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prashantgaur32&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=prashantgaur32&show_icons=true&locale=en" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantgaur32&" alt="GitHub Streak" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=PrashantGaur32&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=PrashantGaur32&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantGaur32&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
